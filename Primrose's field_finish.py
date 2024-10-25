@@ -1,22 +1,18 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-
+#字符顏色
 c1=(197, 35, 137)
 c2=(255, 255, 255)
+#棋盤顏色
 color1 = (160, 215, 51)
 color2 = (79, 187, 129)
-#pink=(255, 105, 180)
-#color2=c2
-#c1=(0,0,0)
-#color1=c1
-#c2=color1
+
 def rgb_to_float(rgb):
     return tuple(color / 255 for color in rgb)
 
 def draw_checkerboard(ax, rows, cols, size):
-    # 定義顏色
-    # 繪製方塊
+# 繪製方塊
     for row in range(rows):
         for col in range(cols):
             color = rgb_to_float(color1) if (row + col) % 2 == 0 else rgb_to_float(color2)
@@ -25,10 +21,10 @@ def draw_checkerboard(ax, rows, cols, size):
 
 # 棋盤設置
 checkerboard_rows = 18  # 行數
-checkerboard_cols = checkerboard_rows  # 列數
+checkerboard_cols = checkerboard_rows  # 列數，目前設置和行數一致
 square_size = 8  # 方格大小
 
-# 使用者自定義參數
+# 其他自定義參數
 x = checkerboard_rows - 2  # 每行顯示的字符數量
 max_rows = checkerboard_rows - 2  # 最大顯示的字符行數
 char_to_display = '✚'  # 顯示的字符
