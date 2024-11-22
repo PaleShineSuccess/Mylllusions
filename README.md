@@ -8,5 +8,6 @@ Currently have works similar to Kitaoka ’s original "Primrose's field"
 
 # 環境
 https://colab.research.google.com/drive/134C1X-L1EzmJm2w9qNN9KbnWb2vb6G1n#scrollTo=VQzyS0utxAyL
+https://colab.research.google.com/drive/1XiuY8A6hDCwr8Nv5fKxbHw33WmwCdwCC?usp=sharing
 
 直接開啟google colab把運行就好('・ω・)
