@@ -20,4 +20,14 @@ https://colab.research.google.com/drive/1LsVJnHT_SzQ7g1oBYpeSFZjKk6HqARas?usp=sh
 new
 https://colab.research.google.com/drive/1Nctrd7Tki6yYyWm107gM0gMeOHV4vqFt?usp=sharing
 
-直接開啟google colab把運行就好('・ω・)
+最終成品
+Primrose's field
+https://colab.research.google.com/drive/1XX9AR-Tgd-8aueq4m285ud_s7e4lmmHq?usp=sharing
+
+coffee wall
+https://colab.research.google.com/drive/14fJxykw9A7pYvA-Ek6btBhbbVJoTAKGT?usp=sharing
+
+其他一些旋轉、顏色混合、錯色等錯覺
+https://colab.research.google.com/drive/1Y1bwfP_Ind1DPlqS5dHePnJhfALpPEEi?usp=sharing
+
+直接開啟google colab，運行就好('・ω・)
