@@ -7,7 +7,7 @@ Currently have works similar to Kitaoka ’s original "Primrose's field"
 ![image](https://github.com/user-attachments/assets/24c70657-9623-4dec-b8ed-830d44f9dab3)
 
 # 環境
-Colab
+Google Colab , with Gemini and ChatGPT
 
 延伸
 https://colab.research.google.com/drive/134C1X-L1EzmJm2w9qNN9KbnWb2vb6G1n#scrollTo=VQzyS0utxAyL
