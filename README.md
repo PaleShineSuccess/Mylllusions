@@ -7,6 +7,7 @@ Currently have works similar to Kitaoka ’s original "Primrose's field"
 ![image](https://github.com/user-attachments/assets/24c70657-9623-4dec-b8ed-830d44f9dab3)
 
 # 環境
+Colab
 
 延伸
 https://colab.research.google.com/drive/134C1X-L1EzmJm2w9qNN9KbnWb2vb6G1n#scrollTo=VQzyS0utxAyL
@@ -20,7 +21,7 @@ https://colab.research.google.com/drive/1LsVJnHT_SzQ7g1oBYpeSFZjKk6HqARas?usp=sh
 new
 https://colab.research.google.com/drive/1Nctrd7Tki6yYyWm107gM0gMeOHV4vqFt?usp=sharing
 
-最終成品
+# 最終成品
 Primrose's field
 https://colab.research.google.com/drive/1XX9AR-Tgd-8aueq4m285ud_s7e4lmmHq?usp=sharing
 
